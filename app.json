@@ -21,6 +21,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "30530d38-ca68-4212-aa36-34d290cee3ea"
+      }
+    },
+    "owner": "fourtuna"
   }
 }
